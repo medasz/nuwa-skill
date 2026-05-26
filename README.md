@@ -99,11 +99,11 @@ Naval     ❯ 你列了三个欲望。每个欲望都是你跟不快乐签的一
 
 ## 不想自己蒸馏？试试 Bloome
 
-[<img src="bloome-advisors.jpg" alt="Bloome - 让他们成为你的智囊团" width="720">](https://www.bloome.im)
+[<img src="bloome-advisors.jpg" alt="Bloome - 让他们成为你的智囊团" width="720">](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 想随时找乔布斯和张小龙聊产品？和芒格聊投资？
 
-[Bloome](https://www.bloome.im) —— 让他们成为你的智囊团，人和多个 Agent 在同一个对话里协作。www.bloome.im
+[Bloome](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill) —— 让他们成为你的智囊团，人和多个 Agent 在同一个对话里协作。[www.bloome.im](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 ---
 

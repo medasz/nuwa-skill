@@ -69,11 +69,11 @@ Naval   ❯ 당신은 세 가지 욕망을 나열했다.
 
 ## 직접 증류하기 싫다면? Bloome을 써보세요
 
-[<img src="bloome-advisors.jpg" alt="Bloome - 그들을 당신의 두뇌집단으로" width="720">](https://www.bloome.im)
+[<img src="bloome-advisors.jpg" alt="Bloome - 그들을 당신의 두뇌집단으로" width="720">](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 언제든 잡스나 장샤오룽과 제품 얘기를? 멍거와 투자 얘기를?
 
-[Bloome](https://www.bloome.im) —— 그들을 당신의 두뇌집단으로. 하나의 대화 안에서 사람과 여러 Agent가 협업한다. www.bloome.im
+[Bloome](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill) —— 그들을 당신의 두뇌집단으로. 하나의 대화 안에서 사람과 여러 Agent가 협업한다. [www.bloome.im](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 ---
 

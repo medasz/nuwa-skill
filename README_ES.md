@@ -69,11 +69,11 @@ Esto no es juego de roles. Naval usa su modelo mental "deseo como contrato". Mus
 
 ## ¿No quieres destilar tú mismo? Prueba Bloome
 
-[<img src="bloome-advisors.jpg" alt="Bloome - Conviértelos en tu equipo de asesores" width="720">](https://www.bloome.im)
+[<img src="bloome-advisors.jpg" alt="Bloome - Conviértelos en tu equipo de asesores" width="720">](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 ¿Quieres hablar de producto con Jobs o Allen Zhang cuando quieras? ¿De inversiones con Munger?
 
-[Bloome](https://www.bloome.im) —— Conviértelos en tu equipo de asesores. Humanos y varios agentes colaborando en una misma conversación. www.bloome.im
+[Bloome](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill) —— Conviértelos en tu equipo de asesores. Humanos y varios agentes colaborando en una misma conversación. [www.bloome.im](https://www.bloome.im/?utm_source=huashu-leon-202605&utm_medium=github&utm_campaign=nuwa-skill)
 
 ---
 
